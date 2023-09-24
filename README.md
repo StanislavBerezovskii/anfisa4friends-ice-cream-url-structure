@@ -1,17 +1,18 @@
-# Анфиса для друзей
-### Описание
-Благодаря этому проекту можно будет угощать мороженым друзей из разных городов.
-### Технологии
+# Anfisa for friends project
+
+### Description
+This small project allows you to treat friends from different cities to ice cream.
+
+### Technologies
 Python 3.7
 Django 2.2.19
-### Запуск проекта dev-режиме
-- Установите зависимости из файла requirements.txt
+
+### Launching the project in dev mode
+- Install dependencies from requirements.txt file
 ```
 pip install -r requirements.txt
 ``` 
-- В папке с файлом manage.py выполните команду:
+- In the folder with the manage.py file, run the command:
 ```
 python3 manage.py runserver
 ```
-### Авторы
-Андрей, Стёпа, Лера и Максим
